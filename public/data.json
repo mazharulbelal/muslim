@@ -1,0 +1,16 @@
+{
+  "app": "muslim",
+  "status": true,
+  "data": [
+    {
+      "id": 1,
+      "title": "Daily Verse",
+      "text": "Indeed, Allah is with the patient"
+    },
+    {
+      "id": 2,
+      "title": "Reminder",
+      "text": "So remember Me; I will remember you"
+    }
+  ]
+}
